@@ -1,0 +1,8 @@
+https://mlgfix.com -O /Users/devicecare/Desktop/static-site -r6 -c14 -s0 -%v -%! -C -O /Users/devicecare/Desktop/static-site -r6 -c14 -s0 -%v -%!
+File generated automatically on Mon, 24 Mar 2025 03:29:54, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

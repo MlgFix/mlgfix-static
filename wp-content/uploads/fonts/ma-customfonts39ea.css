@@ -1,0 +1,4 @@
+/* Version: Code Snippet "MA Custom Fonts" 3.4.2 */
+@font-face{font-family:"Nunito";font-weight:1 1000;font-style:italic;src:url("Nunito-Italic-VariableFont_wght.ttf") format("truetype");font-display:block;}
+@font-face{font-family:"Nunito";font-weight:1 1000;font-style:normal;src:url("Nunito-VariableFont_wght.ttf") format("truetype");font-display:block;}
+.has-nunito-font-family{font-family:"Nunito";}
